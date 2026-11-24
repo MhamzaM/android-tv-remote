@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A simple remote control: rounded body, round d-pad and two buttons. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFE8ECF4"
+        android:pathData="M44,28h20a6,6 0,0 1,6 6v40a6,6 0,0 1,-6 6h-20a6,6 0,0 1,-6 -6v-40a6,6 0,0 1,6 -6z" />
+    <path
+        android:fillColor="#FF1E2430"
+        android:pathData="M54,36m-9,0a9,9 0,1 1,18 0a9,9 0,1 1,-18 0" />
+    <path
+        android:fillColor="#FF4F8CFF"
+        android:pathData="M54,36m-3.5,0a3.5,3.5 0,1 1,7 0a3.5,3.5 0,1 1,-7 0" />
+    <path
+        android:fillColor="#FF1E2430"
+        android:pathData="M47,53h4v4h-4zM57,53h4v4h-4zM47,62h4v4h-4zM57,62h4v4h-4z" />
+    <path
+        android:fillColor="#FFE5484D"
+        android:pathData="M54,72m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+</vector>
